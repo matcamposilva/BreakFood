@@ -6,7 +6,7 @@ import { ProdutoProvider } from '../../providers/produto/produto';
 import { ProdutoModel } from '../../app/models/produtoModel';
 import { CategoriaModel } from '../../app/models/categoriaModel';
 import { AlertProvider } from '../../providers/alert/alert';
-
+//
 
 @IonicPage()
 @Component({
